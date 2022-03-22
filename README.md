@@ -1,10 +1,10 @@
-<p align="center"><img width="30%" src="https://c.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif" height=30%/></p>
+<p align="center"><img width="30%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif" height=30%/></p>
 <h1 align="center">🐱‍🐉</h1>
-
+<div align="center"->
 • 📚 Aprendendo Java e AWS! <br>
 
  
-## Skills <img src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif" height="70px">
+## Skills 
 
 <h4> Languages </h4>
 <span> 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
+   </div> 
 
 </span>
 
@@ -42,7 +42,7 @@
 ## 📊 Github:
   
 <img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroTresmondi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-
+<img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTresmondi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
  
 <h4 align="center">Minhas redes sociais:</h4>
@@ -51,5 +51,6 @@
 <a href="https://www.linkedin.com/in/pedrotresmondi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/3smondi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div> 
+
   
   
