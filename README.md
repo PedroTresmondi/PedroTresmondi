@@ -1,5 +1,5 @@
 
-<p align="center"><img width="30%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif" height=35%/></p>
+<p align="center"><img width="30%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif" height=40%/></p>
 <h1 align="center">Organic Thoughts from the Sinthetic Mind</h1>
 <div align="center"->
 • 📚 No momento aprendendo Java e AWS! <br>
