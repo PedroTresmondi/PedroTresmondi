@@ -7,7 +7,7 @@
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
  <p>
-  <img align="left" width="490" height="150" src="https://github-readme-stats.vercel.app/api?username=PedroTresmondi&show_icons=true&hide_border=false&line_height=20&title_color=320&icon_color=1b93c9&show_owner=true"/>
+<img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroTresmondi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTresmondi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
