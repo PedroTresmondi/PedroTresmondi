@@ -6,7 +6,6 @@
 
 - 📚 No momento aprendendo Java e AWS! 
 - 👩‍💻 Estagiario na Accenture Brasil
-- 🌱 Estou estudando e buscando me aprofundar em Java e AWS
 - 👩‍🎓 Estudante no curso de Analise e Desenvolvimento de Sistemas na SPTECH
  
 
