@@ -1,5 +1,5 @@
 
-<p align="center"><img width="100%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"/></p>
+<p align="center"><img height="30%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"/></p>
 <h1 align="center">Organic Thoughts from the Sinthetic Mind</h1>
 
 # Olá! Eu sou o Pedro Tresmondi
