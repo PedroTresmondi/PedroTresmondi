@@ -1,5 +1,5 @@
 
-<p align="center"><img width="100%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif" height=100%/></p>
+<p align="center"><img width="100%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"/></p>
 <h1 align="center">Organic Thoughts from the Sinthetic Mind</h1>
 
 # Olá! Eu sou o Pedro Tresmondi
@@ -42,7 +42,7 @@
  
 
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px">
  <p>
   <a href="https://github.com/PedroTresmondi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroTresmondi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
