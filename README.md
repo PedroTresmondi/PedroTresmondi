@@ -3,6 +3,7 @@
 <h1 align="center">Organic Thoughts from the Sinthetic Mind</h1>
 
 # Olá! Eu sou o Pedro Tresmondi
+Intern at Accenture | Analista de Sistemas | JavaScript | Node.js | Express.js | AWS | UI/UX | Photoshop
 
 
 ## :books: Tecnologias que uso e estou me desenvolvendo ##
