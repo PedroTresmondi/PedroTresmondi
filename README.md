@@ -35,8 +35,6 @@ Estagiário em Accenture | Analista de Sistemas | JavaScript | Node.js | Express
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrotresmondi&theme=solarized_dark)](#)
 
 
-- 📚 No momento aprendendo Java e AWS! 
-- 👩‍💻 Estagiario na Accenture Brasil
 - 👩‍🎓 Estudante no curso de Analise e Desenvolvimento de Sistemas na SPTECH
  
 
