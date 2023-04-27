@@ -34,7 +34,7 @@ Estagiário em Accenture | Analista de Sistemas | JavaScript | React | Node.js |
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrotresmondi&theme=solarized_dark)](#)
 
 
-- 👩‍🎓 Estudante no curso de Analise e Desenvolvimento de Sistemas na SPTECH
+- 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas 
  
 
 
