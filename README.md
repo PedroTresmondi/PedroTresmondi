@@ -5,6 +5,7 @@
 # Olá! Eu sou o Pedro Tresmondi
 Desenvolvedor Web | JavaScript | React | Node.js | Express.js | AWS | UI/UX | Photoshop
 
+Portfolio 👉 https://3smondi-portfolio.vercel.app/
 
 
 [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
