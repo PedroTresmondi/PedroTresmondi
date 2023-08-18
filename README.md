@@ -33,7 +33,7 @@ Desenvolvedor Web | JavaScript | React | Node.js | Express.js | AWS | UI/UX | Ph
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrotresmondi&theme=solarized_dark)](#)
 
 
-- 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas 
+- 👩‍🎓 Formado em Analise e Desenvolvimento de Sistemas 
  
 
 
