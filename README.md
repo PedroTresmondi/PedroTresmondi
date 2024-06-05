@@ -39,7 +39,7 @@ Portfolio 👉 https://3smondi-portfolio.vercel.app/
 
 
  <p>
-  <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTresmondi&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTresmondi&layout=compact&langs_count=7&theme=onedark"/>
   <p>
 
   </p>
