@@ -27,7 +27,7 @@ Portfolio 👉 https://3smondi-portfolio.vercel.app/
     <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 
 
-## :white_check_mark: Minhas estatísticas ##
+## :white_check_mark: Stats ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrotresmondi&theme=solarized_dark)](#)
 
