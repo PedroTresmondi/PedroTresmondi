@@ -1,7 +1,7 @@
 <p align="center"><img height="30%" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"/></p>
 <h1 align="center">Organic Thoughts from the Sinthetic Mind</h1>
 <p align="center">Pedro Tresmondi</p>
-<p align="center">Desenvolvedor</p>
+<p align="center">Desenvolvedor formado em Análise e Desenvolvimento de Sistemas</p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/></a>
@@ -24,8 +24,9 @@
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrotresmondi&theme=solarized_dark" alt="Estatísticas do Perfil"/></a>
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTresmondi&layout=compact&langs_count=7&theme=onedark" alt="Linguagens Mais Usadas"/></a>
 </p>
-🎓 Formação
-Formado em Análise e Desenvolvimento de Sistemas
+
+
+
 🌐 Minhas Redes Sociais
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-tresmondi-a061571a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
