@@ -11,9 +11,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas
 - 💡 **Interesses**: Inteligência Artificial, Desenvolvimento Web, e Experiências Digitais
-- 🌱 **Atualmente aprendendo**: Desenvolvimento de aplicativos
 - 🌐 **Idiomas**: Português (Nativo), Inglês (Avançado)
 
 ---
