@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="380" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"  />
+  <img height="200" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"  />
 </div>
 
 ###
