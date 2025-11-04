@@ -2,13 +2,8 @@
   <img height="200" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"  />
 </div>
 
-###
 
-<h1 align="center">Organic Thoughts from the Synthetic Mind</h1>
-
-###
-
-<h3 align="center">Pedro Tresmondi | Desenvolvedor | Entusiasta de IA |  Web e Experiências Digitais</h3>
+<h3 align="center"> Desenvolvedor | Entusiasta de IA |  Web e Experiências Digitais</h3>
 
 ###
 
