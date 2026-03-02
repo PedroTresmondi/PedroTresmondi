@@ -62,12 +62,6 @@
 
 ---
 
-## Projetos e Ativações
-
-Trabalhos com foco em experiências interativas e phygital, combinando interfaces web e controle físico para operação em eventos e ativações de marca.
-
-Referência: <a href="https://www.instagram.com/p/DC7HypNug2x/?img_index=1" target="_blank">Rock in Rio / Phygital</a>
-
 ---
 
 ## GitHub
