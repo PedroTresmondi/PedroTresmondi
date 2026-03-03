@@ -5,7 +5,7 @@
   <p>Tech Lead • Full Stack Developer • Web + IoT • Experiências Interativas</p>
 
   <p>
-    Construo experiências digitais e phygital com foco em estabilidade em eventos, alto volume de interações e integração entre software e hardware.
+    Experiências digitais com foco em estabilidade em eventos, alto volume de interações e integração entre software e hardware.
   </p>
 
   <p>
