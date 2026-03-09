@@ -12,9 +12,6 @@
     <a href="https://www.linkedin.com/in/pedro-tresmondi-a061571a3/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/3smondi/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
     <a href="mailto:pedro_tresmondi@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
       <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
     </a>
