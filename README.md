@@ -1,92 +1,99 @@
 <div align="center">
-  <img height="200" src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif" alt="Ghost in the Shell gif" />
 
-  <h1>Pedro Tresmondi</h1>
-  <p>Tech Lead • Full Stack Developer • Web + IoT • Experiências Interativas</p>
+<img
+  height="180"
+  src="https://c.tenor.com/GmNex5lZ6wUAAAAC/ghost-in.gif"
+  alt="Ghost in the Shell"
+/>
 
-  <p>
-    Experiências digitais com foco em estabilidade em eventos, alto volume de interações e integração entre software e hardware.
-  </p>
+# Pedro Tresmondi
 
-  <p>
-    <a href="https://www.linkedin.com/in/pedro-tresmondi-a061571a3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:pedro_tresmondi@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
-      <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
-    </a>
-  </p>
+### Tech Lead · Full Stack · IoT · Experiências Interativas
+
+Criando experiências digitais onde **software encontra o mundo físico**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/pedro-tresmondi-a061571a3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:pedro_tresmondi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
-## Atuação
+### Sobre
 
-- Liderança técnica e desenvolvimento de aplicações web para experiências interativas
-- Integração com dispositivos físicos (ESP32, RFID, LEDs, sensores) e operação em campo
-- Sistemas preparados para alto fluxo de participantes, telemetria e coleta de dados
-- Infra e deploy voltados para confiabilidade e simplicidade de operação em eventos
+Desenvolvo sistemas interativos para o **digital e o físico**.
+
+De aplicações web e jogos a experiências para eventos, IA, totens e integrações com hardware.
+
+`Arquitetura` · `Desenvolvimento` · `Integração` · `Deploy` · `Operação em campo`
 
 ---
 
-## Stack
+### O que eu faço
+
+**Experiências Interativas**  
+Jogos web · Gamificação · Totens · Tecnologia para eventos
+
+**IoT & Hardware**  
+ESP32 · RFID · LEDs · Sensores · Redes locais
+
+**IA & Visão Computacional**  
+IA generativa · Processamento de imagem · Hand Tracking
+
+**Web & Cloud**  
+React · Next.js · Node.js · TypeScript · Supabase · AWS · Azure
+
+---
+
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,cs,postgres,supabase,docker,aws,azure,arduino,git,github,figma" />
+</p>
+
+---
+
+### Explorando atualmente
+
+`Experiências com IA`  
+`Visão Computacional`  
+`Sistemas Local-first`  
+`Interações em Tempo Real`  
+`Jogos Web`  
+`IoT`
+
+---
+
+### GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="34" alt="AWS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="Azure" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="34" alt="Arduino" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" />
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroTresmondi&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+  alt="Linguagens mais usadas"
+/>
+
+<br>
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PedroTresmondi&theme=github-compact&hide_border=true&area=true"
+  alt="Atividade no GitHub"
+/>
+
 </div>
 
 ---
 
----
-
-## GitHub
-
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroTresmondi&layout=compact&card_width=360&langs_count=8&theme=dracula&hide_border=true"
-    height="160"
-    alt="Top languages"
-  />
-</div>
 
-<br />
+**software × hardware × pessoas**
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PedroTresmondi&radius=10&theme=synthwave-84&area=true&hide_border=true"
-    height="260"
-    alt="Activity graph"
-  />
-</div>
-
----
-
-## Agora
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12150683265" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12150683265&count=3" alt="Spotify recently played" />
-  </a>
 </div>
